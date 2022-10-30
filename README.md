@@ -1,7 +1,7 @@
 ### Hello my friends! My name is Artem. I live in Khabarovsk. I am Python-developer 👋
 - 🔭 I’m currently working on docker-compose
 - 🌱 I’m currently learning in Yandex.Practicum
-- 💬 Ask me anything
+- 💬 My skills: Python, Django Framework, Git, PostgreSQL, MySQL, Linux, Nginx, Docker, REST API, pytest
 - 📫 How to reach me: Telegram @artem_shirnin, e-mail artyom.shirnin@yandex.ru
 - ⚡ Fun fact: Japan has over 200 flavours of Kit Kat
 <!--
