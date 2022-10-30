@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning in Yandex.Practicum
 - 💬 My skills: Python, Django Framework, Git, PostgreSQL, MySQL, Linux, Nginx, Docker, REST API, pytest
 - 📫 How to reach me: Telegram @artem_shirnin, e-mail artyom.shirnin@yandex.ru
-- ⚡ Fun fact: Japan has over 200 flavours of Kit Kat
+- ⚡ Fun fact: Pythons only eat five or six times each year
 <!--
 **Artyom-Shirnin/Artyom-Shirnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
