@@ -1,9 +1,9 @@
 ### Hello my friends! My name is Artem. I live in Khabarovsk. I am Python-developer 👋
 - 🔭 I’m currently working on docker-compose
 - 🌱 I’m currently learning in Yandex.Practicum
-- 💬 Ask me about ...
+- 💬 Ask me anything
 - 📫 How to reach me: Telegram @artem_shirnin, e-mail artyom.shirnin@yandex.ru
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Japan has over 200 flavours of Kit Kat
 <!--
 **Artyom-Shirnin/Artyom-Shirnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
